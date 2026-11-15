@@ -1,0 +1,253 @@
+Foldnite IP EVIDENCE & VALUATION REGISTRY — RESTRICTED PROPRIETARY LICENSE
+Version 1.0 — 2026-11-15
+
+Copyright (c) 2026 Foldnite. All Rights Reserved.
+
+This repository contains Foldnite proprietary intellectual property, technical
+research records, valuation materials, invention disclosures, prior-art records,
+architecture documentation, claim-oriented materials, internal governance
+materials and related corporate documentation (collectively, the "Proprietary
+Materials").
+
+This license is an internal, restricted-use license. It is NOT an open-source
+license and does NOT grant the public a right to copy, modify, fork, distribute,
+publish, sublicense, sell, host, mirror, repackage, commercially exploit, or
+otherwise use the Proprietary Materials except as expressly authorized in
+writing by Foldnite.
+
+1. AUTHORIZED USERS
+
+Authorized Users are limited to:
+
+- active Foldnite employees or officers acting within assigned duties ("Authorized
+  Employees"); and
+- non-employee individuals expressly approved in writing by an authorized Foldnite
+  representative, and covered by a signed written agreement that incorporates
+  this restricted-use regime and defines the permitted purpose, repositories,
+  data scope, duration, security duties, confidentiality, IP treatment, and
+  return/deletion obligations ("Approved Affiliate Users").
+
+An Approved Affiliate User receives no general permission merely from this
+LICENSE. The separate signed agreement must explicitly authorize the relevant
+access and use. Access must be least-privilege, project-scoped, and removed when
+the authorization expires or the work ends.
+
+A person is NOT an Authorized User merely because they:
+
+- can view, clone, fork, cache, mirror, index, or otherwise retrieve the
+  repository through GitHub or another service;
+- appear on a team roster or hold an organization/repository membership;
+- are described as a contractor, consultant, advisor, customer, supplier,
+  partner, investor, community member, contributor, researcher, or affiliate; or
+- have signed an NDA without the separate access/use and IP terms required for
+  the relevant work.
+
+2. LIMITED INTERNAL LICENSE
+
+Subject to this license and any applicable Foldnite employment, confidentiality,
+invention-assignment, security, information-governance, and internal-use
+agreements, an Authorized User may, only within their documented authorization and solely
+for legitimate Foldnite internal business, research, legal, IP, engineering,
+valuation, security, or development purposes:
+
+- access and read the Proprietary Materials;
+- reproduce the Proprietary Materials as reasonably necessary for internal work;
+- modify and maintain Proprietary Materials for internal Foldnite purposes;
+- create internal derivative works, analyses, claim charts, evidence bundles,
+  valuation models, and technical records; and
+- maintain internal copies required for development, audit, legal review,
+  security, backup, compliance, or corporate governance.
+
+3. PROHIBITED ACTIONS
+
+Except with an applicable signed written authorization from Foldnite, no person may
+perform the following actions. An Authorized User may do only the minimal acts
+expressly required by the permitted scope; an Authorized Employee must act within
+assigned duties, and an Approved Affiliate User must act strictly within the
+external authorization:
+
+- copy, reproduce, republish, or redistribute the Proprietary Materials;
+- publish substantial portions of the Proprietary Materials outside Foldnite;
+- fork, mirror, rehost, or create an external derivative repository;
+- sell, lease, rent, sublicense, assign, transfer, or commercially exploit the
+  Proprietary Materials;
+- provide the Proprietary Materials or access to them to a third party;
+- use the Proprietary Materials to build a competing product, service,
+  architecture, scientific workflow, evidence system, valuation system, or
+  intellectual-property management system;
+- disclose confidential or non-public technical, business, scientific, legal,
+  valuation, security, customer, contributor, or operational information
+  contained in or derived from the Proprietary Materials;
+- use Foldnite proprietary invention disclosures, claim concepts, architecture,
+  schemas, workflows, mission logic, validation logic, valuation methodology,
+  evidence structures, or deployment patterns to create a substantially
+  equivalent external product or service;
+- remove or alter copyright, licensing, attribution, security, confidentiality,
+  provenance, or proprietary notices; or
+- file, prosecute, license, assign, or otherwise assert intellectual-property
+  rights based on Foldnite Proprietary Materials without express written
+  authorization from Foldnite.
+
+4. SPECIAL RULE FOR INVENTION DISCLOSURES AND PRIOR ART MATERIALS
+
+Technical disclosures, invention records, claim-oriented documents,
+architecture descriptions, evidence bundles, prior-art records, valuation
+materials, and patent-oriented claim matrices are proprietary corporate records.
+Their presence in a public Git repository does not constitute a public license
+to reproduce, commercialize, adapt, or exploit the underlying Foldnite concepts.
+
+Nothing in this section states that publication of a document creates a patent,
+patent application, copyright registration, trade secret, or other exclusive
+right. Patentability, inventorship, priority, novelty, enablement, ownership,
+assignment, and enforceability are determined under applicable law and the
+relevant legal instruments.
+
+5. THIRD-PARTY AND OPEN-SOURCE MATERIALS
+
+This license applies only to Proprietary Materials that Foldnite owns or is
+legally entitled to license under these terms.
+
+Third-party libraries, frameworks, SDKs, fonts, assets, datasets, scientific
+software, model weights, documentation, trademarks, public specifications,
+open-source components, upstream repositories, and other third-party materials
+remain governed by their respective licenses, terms of use, and legal rights.
+
+Nothing in this license attempts to relicense, restrict, or supersede an
+applicable third-party or open-source license. Where a file or component is
+subject to a separate license, that separate license controls for that material.
+
+6. MIXED-LICENSE REPOSITORY RULE
+
+Where this repository contains materials under different rights regimes, the
+following hierarchy applies:
+
+- Foldnite-owned Proprietary Materials: this license;
+- third-party/open-source materials: their applicable upstream license;
+- separately licensed customer, partner, contributor, or research materials:
+  their applicable written agreement or license;
+- trademarks, likenesses, characters, brands, and other third-party IP: the
+  applicable rights-holder terms.
+
+Repository access does not convert third-party material into Foldnite property
+and does not convert Foldnite property into third-party material.
+
+7. NO OPEN-SOURCE GRANT FOR PROPRIETARY MATERIALS
+
+The Proprietary Materials are not released under MIT, Apache, BSD, GPL, AGPL,
+LGPL, Creative Commons, or any other open-source or public license merely
+because this repository is publicly accessible.
+
+Any file intentionally released by Foldnite under a separate open-source or
+public license remains subject to that license and must be identified as such.
+
+A later internal policy or license does not retroactively revoke rights already
+granted under a valid earlier open-source license.
+
+8. CONTRIBUTIONS AND AUTHORSHIP
+
+Contributions to this repository do not automatically grant a contributor or
+third party ownership of Foldnite Proprietary Materials.
+
+Ownership, inventorship, assignment, confidentiality, moral-rights treatment,
+and contribution rights are governed by the contributor's applicable employment
+agreement, invention-assignment agreement, contributor agreement, contractor
+agreement, license, or separate written instrument with Foldnite.
+
+Where authorship or inventorship is material to an IP claim, Foldnite may retain
+restricted legal records mapping technical identities, commit history, reviews,
+assignments, signatures, and corporate roles.
+
+9. EMPLOYMENT TERMINATION
+
+An Authorized Employee's permission automatically terminates when the person's
+employment with Foldnite ends, unless a separate written authorization is provided.
+An Approved Affiliate User's permission ends when the applicable written
+authorization or governing agreement expires or terminates.
+
+Upon termination, the former employee must stop using the Proprietary Materials
+and return or securely destroy Foldnite copies in their possession or control,
+subject to records that must be retained by law or Foldnite's documented
+retention policy.
+
+10. SECURITY AND CONFIDENTIALITY
+
+This license does not replace Foldnite security, confidentiality, privacy,
+information-governance, or records-retention requirements.
+
+Credentials, API tokens, private keys, protected scientific references,
+customer-confidential information, unreleased algorithms, commercial secrets,
+and internal deployment secrets must not be disclosed through issues, releases,
+artifacts, commits, forks, pull requests, or other public channels.
+
+11. GIT HISTORY AND EVIDENCE
+
+Git commits, signed tags, release records, cryptographic hashes, immutable
+archives, timestamps, CI/build attestations, and repository history may be used
+by Foldnite as evidence of technical disclosure, authorship chronology, and
+corporate provenance.
+
+Such evidence records do not themselves grant a third party a license to the
+underlying Proprietary Materials.
+
+12. COMMERCIAL / ENTERPRISE LICENSING
+
+Foldnite may grant a customer, partner, subsidiary, contractor, strategic
+acquirer, investor, research institution, or other third party a separate
+commercial or research license by a written agreement executed by an authorized
+Foldnite representative.
+
+No commercial, research, patent, trademark, copyright, database, design,
+trade-secret, or other IP license arises from repository access, a GitHub fork,
+an issue, a pull request, an observation, a citation, or participation in a
+public discussion unless a separate written agreement expressly grants it.
+
+13. RESERVATION OF RIGHTS
+
+All rights not expressly granted under this license are reserved by Foldnite.
+
+Foldnite retains all rights, title, and interest in the Proprietary Materials
+that Foldnite owns or controls, including applicable copyrights, trade-secret
+rights, database rights, design rights, confidential information, know-how, and
+patent rights.
+
+14. NO WARRANTY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE PROPRIETARY MATERIALS ARE PROVIDED
+"AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, OR AVAILABILITY.
+
+15. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, FOLDNITE SHALL NOT BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES,
+OR ANY LOSS OF PROFITS, REVENUE, DATA, BUSINESS, OR GOODWILL, ARISING OUT OF OR
+RELATED TO USE OR INABILITY TO USE THE PROPRIETARY MATERIALS.
+
+16. LEGAL REVIEW
+
+This license is intended to function as an internal copyright and use-control
+notice and should be reviewed and adapted by qualified counsel for the
+jurisdiction(s) in which Foldnite operates, employs personnel, licenses IP, or
+seeks patent protection.
+
+
+
+17. PROSPECTIVE UPDATE / PRIOR RIGHTS
+
+This Version 1.0 establishes restricted-use terms for Foldnite-owned or
+Foldnite-controlled materials. It does not purport to retroactively revoke,
+narrow, or change any rights validly granted under an earlier written licence,
+open-source licence, or agreement. Existing written agreements govern to the
+extent of their terms.
+
+18. VERSION CONTROL
+
+License identifier: FOLDNITE-RESTRICTED-1.0
+Repositories covered: https://github.com/Foldnite/
+Organization: https://github.com/foldnite
+Effective date: 2026-11-15
+
+For licensing exceptions, commercial licensing, external research access,
+patent matters, or other written permissions, contact an authorized Foldnite
+representative.
